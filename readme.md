@@ -106,4 +106,4 @@ Contributions to improve the application are welcome. Please feel free to fork t
 ## License
 
 This project is licensed under the MIT License.
-contact email : habizinnia@gmail.com
+Contact email : habizinnia@gmail.com
